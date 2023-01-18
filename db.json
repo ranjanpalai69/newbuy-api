@@ -1,8 +1,978 @@
 {
     "products":[
-    
+        {
+          "id": 1,
+          "city": "bhubaneswar",
+          "typeFilter": "Restaurant Deals",
+          "stars": 4.1,
+          "address": "1.8 km - Patia",
+          "fullAddress": "No. 9, Infocity Avenue, K I, I T University, Chandaka Industrial Estate, Patia, Bhubaneswar",
+          "type": "DEALS",
+          "desc": "Buffet Offers from ₹891",
+          "bCount": 261,
+          "price":891,
+          "name": "AB's - Absolute Barbecues",
+          "img": "https://img4.nbstatic.in/tr:w-350/615c0e751e2731000b10a7c3.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/5811ad254cedfd000e0c6177.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5811aceb4cedfd000e0c6173.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5811ad01d60180000dfb93da.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5811ad154cedfd000e0c6175.jpg",
+            "https://img4.nbstatic.in/tr:w-500/615c0e901e2731000b10a7c4.jpg",
+            "https://img4.nbstatic.in/tr:w-500/615c0e9a40e9df000b00a212.jpg",
+            "https://img4.nbstatic.in/tr:w-500/615c0ea21e2731000b10a7c6.jpg",
+            "https://img4.nbstatic.in/tr:w-500/615c0eaa40e9df000b00a214.jpg",
+            "https://img4.nbstatic.in/tr:w-500/615c0eb340e9df000b00a215.jpg",
+            "https://img4.nbstatic.in/tr:w-500/615c0f0a40e9df000b00a219.jpg",
+            "https://img4.nbstatic.in/tr:w-500/615c0f121e2731000b10a7cb.jpg",
+            "https://img4.nbstatic.in/tr:w-500/615c0f1a40e9df000b00a21b.jpg",
+            "https://img4.nbstatic.in/tr:w-500/615c0f2340e9df000b00a21d.jpg",
+            "https://img4.nbstatic.in/tr:w-500/615c0f2b40e9df000b00a21f.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "city": "bhubaneswar",
+          "typeFilter": "Restaurant Deals",
+          "address": "2.7 km - Tri-plex, Gajpati Nagar",
+          "fullAddress": "3rd Floor, Tri-plex Mall, Nalco Chowk, Chandrasekharpur, Gajpati Nagar, Bhubaneswar",
+          "type": "DEALS",
+          "desc": "Buffet Offers from ₹1800",
+          "bCount": 14018,
+          "price":1800,
+          "name": "Barbeque Nation",
+          "img": "https://img4.nbstatic.in/tr:w-350/60d989e340e9df000b9f2355.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/5f8aa81609dbaf000b5a9f86.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5f8aa859b7b01c000bd0d776.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5f8aa87cb7b01c000bd0d77c.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5f8aa939b7b01c000bd0d782.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5f8aa95b09dbaf000b5a9f96.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5f8aa97cb7b01c000bd0d78e.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5f8aa99e09dbaf000b5a9f9f.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5f8aa9ffb7b01c000bd0d798.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "city": "bhubaneswar",
+          "typeFilter": "Salon Deals",
+          "address": "6.5 km - Surya Nagar",
+          "fullAddress": "Unit 8, 1st Floor, Plot No. 3, Gopabandhu Square, Near Reliance Fresh, Surya Nagar, Bhubaneswar",
+          "type": "DEALS",
+          "desc": "Hair and Skin treatment from ₹1299",
+          "bCount": 0,
+          "price":1299,
+          "name": "Dr. Paul Hair and Skin Clinic",
+          "img": "https://img4.nbstatic.in/tr:w-350/61a4c37340e9df000ba6e98e.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/61a4c38040e9df000ba6e98f.jpg",
+            "https://img4.nbstatic.in/tr:w-500/61a4c38c40e9df000ba6e990.jpg",
+            "https://img4.nbstatic.in/tr:w-500/61a4c39940e9df000ba6e991.jpg"
+          ]
+        },
+        {
+          "id": 4,
+          "city": "bhubaneswar",
+          "typeFilter": "Salon Deals",
+          "stars": 3.8,
+          "address": "7.1 km - Kharvel Nagar",
+          "fullAddress": "No. 5, 1st Floor, Unit No. 3, Near Ram Mandir, Janpath, Kharvel Nagar, Bhubaneswar",
+          "type": "DEALS",
+          "desc": "Salon Services from ₹295",
+          "bCount": 51431,
+          "price":295,
+          "name": "VLCC",
+          "img": "https://img4.nbstatic.in/tr:w-350/59ca3d04dc0e82000c30d981.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/596c3d964cedfd000cc2dedc.jpg",
+            "https://img4.nbstatic.in/tr:w-500/596c3d964cedfd000c45753a.jpg",
+            "https://img4.nbstatic.in/tr:w-500/596c3d9652faff000be6f510.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5b7a9ee552faff000cb2a19e.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5b7a9f1ed60180000dbf891e.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5b7a9f04c9e77c000c1fc5b8.jpg",
+            "https://img4.nbstatic.in/tr:w-500/59895a77590801000d29bfda.jpg",
+            "https://img4.nbstatic.in/tr:w-500/595b7c1b46e0fb000c72b8a7.jpg",
+            "https://img4.nbstatic.in/tr:w-500/61a76b7c40e9df000ba6ed1b.jpg"
+          ]
+        },
+        {
+          "id": 5,
+          "city": "bhubaneswar",
+          "typeFilter": "Restaurant Deals",
+          "address": "10.7 km - DN Regalia Mall, Patrapada",
+          "fullAddress": "6th Floor, DN Regalia Mall, Kaling Nagar, Patrapada, Bhubaneswar",
+          "type": "DEALS",
+          "desc": "Buffet Offers from ₹1800",
+          "price":1800,
+          "bCount": 11701,
+          "name": "Barbeque Nation",
+          "img": "https://img4.nbstatic.in/tr:w-350/60d989e340e9df000b9f2355.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/5f8aa81609dbaf000b5a9f86.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5f8aa859b7b01c000bd0d776.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5f8aa87cb7b01c000bd0d77c.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5f8aa939b7b01c000bd0d782.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5f8aa95b09dbaf000b5a9f96.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5f8aa97cb7b01c000bd0d78e.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5f8aa99e09dbaf000b5a9f9f.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5f8aa9ffb7b01c000bd0d798.jpg"
+          ]
+        },
+        {
+          "id": 6,
+          "city": "bhubaneswar",
+          "typeFilter": "Activity Deals",
+          "address": "10.7 km - DN Regalia Mall, Patrapada",
+          "fullAddress": "7th Floor, DN Regalia Mall, Service Road, South Tamando, DN Square, Kaling Nagar, Patrapada, Bhubaneswar",
+          "type": "DEALS",
+          "desc": "Bowling, Cricket and More from ₹470",
+          "price":470,
+          "bCount": 3,
+          "name": "Smaaash",
+          "img": "https://img4.nbstatic.in/tr:w-350/6308bbec54f372000b30d521.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/618110631e2731000ba65938.jpg",
+            "https://img4.nbstatic.in/tr:w-500/6181106e40e9df000b731057.jpg"
+          ]
+        },
+        {
+          "id": 7,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Godrej Nature's Basket Gift Cards from ₹970",
+          "bCount": 0,
+          "price":970,
+          "name": "Godrej Nature's Basket",
+          "img": "https://img4.nbstatic.in/tr:w-350/5e7dcc54d60180000c4fdcd8.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/5e7dcc67d60180000c4fdcda.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5e7dcc71d60180000c4fdcdc.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5e7dcc7bd60180000c4fdcde.jpg"
+          ]
+        },
+        {
+          "id": 8,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Tata Play DTH HD Subscriptions from ₹1548",
+          "price":1548,
+          "bCount": 219,
+          "name": "Tata Play",
+          "img": "https://img4.nbstatic.in/tr:w-350/61f3ec4b1e2731000bdc591c.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/61f3ec271e2731000bdc591b.jpg"
+          ]
+        },
+        {
+          "id": 9,
+          "city": "bhubaneswar",
+          "typeFilter": "Restaurant Deals",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Asia Seven Express Gift Voucher from ₹920",
+          "price":920,
+          "bCount": 1,
+          "name": "Asia Seven Express",
+          "img": "https://img4.nbstatic.in/tr:w-350/636231f122b317000b73b427.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/6362320e22b317000b73b42a.jpg",
+            "https://img4.nbstatic.in/tr:w-500/6362321a22b317000b73b42b.jpg"
+          ]
+        },
+        {
+          "id": 10,
+          "city": "bhubaneswar",
+          "typeFilter": "Restaurant Deals",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Street Foods By PUNJAB Grill Vouchers from ₹230",
+          "price":230,
+          "bCount": 0,
+          "name": "Street Foods By PUNJAB Grill",
+          "img": "https://img4.nbstatic.in/tr:w-350/6362488a22156b000cb5e83a.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/636248ad22b317000b73b497.jpg",
+            "https://img4.nbstatic.in/tr:w-500/636248bc22b317000b73b498.jpg"
+          ]
+        },
+        {
+          "id": 11,
+          "city": "bhubaneswar",
+          "typeFilter": "Salon Deals",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Lakme Salon Gift Voucher from ₹2000",
+          "price":2000,
+          "bCount": 3,
+          "name": "Lakme Salon",
+          "img": "https://img4.nbstatic.in/tr:w-350/636377a822b317000bd17ba7.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/636377c722156b000bb5d41a.jpg",
+            "https://img4.nbstatic.in/tr:w-500/636377d122b317000bd17bab.jpg"
+          ]
+        },
+        {
+          "id": 12,
+          "city": "bhubaneswar",
+          "typeFilter": "Restaurant Deals",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Zambar Gift Vouchers from ₹460",
+          "price":460,
+          "bCount": 0,
+          "name": "Zambar E-Gift Card",
+          "img": "https://img4.nbstatic.in/tr:w-350/636255ec22b317000b73b688.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/6362580222156b000cb5ebdb.jpg",
+            "https://img4.nbstatic.in/tr:w-500/6362582522156b000cb5ebdc.jpg",
+            "https://img4.nbstatic.in/tr:w-500/6362583722156b000cb5ebdd.jpg",
+            "https://img4.nbstatic.in/tr:w-500/6362584722b317000b73b82e.jpg"
+          ]
+        },
+        {
+          "id": 13,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Blue Tokai Gift Vouchers from ₹900",
+          "price":900,
+          "bCount": 6,
+          "name": "Blue Tokai",
+          "img": "https://img4.nbstatic.in/tr:w-350/63625c4022b317000b73b84b.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/63625c5422156b000cb5ebf8.jpg",
+            "https://img4.nbstatic.in/tr:w-500/63625c6322b317000b73b84d.jpg"
+          ]
+        },
+        {
+          "id": 14,
+          "city": "bhubaneswar",
+          "typeFilter": "Restaurant Deals",
+          "address": "Online Deal",
+          "type": "VIEW",
+          "desc": "Punjab Grill Gift Vouchers from ₹460",
+          "price":460,
+          "bCount": 2,
+          "name": "Punjab Grill",
+          "img": "https://img4.nbstatic.in/tr:w-350/6362326722b317000b73b42e.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/6362327722b317000b73b42f.jpg",
+            "https://img4.nbstatic.in/tr:w-500/6362328722156b000cb5e7c5.jpg",
+            "https://img4.nbstatic.in/tr:w-500/6362329422156b000cb5e7c6.jpg"
+          ]
+        },
+        {
+          "id": 15,
+          "city": "bhubaneswar",
+          "typeFilter": "Salon Deals",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Enrich Gift Vouchers from ₹1000",
+          "price":1000,
+          "bCount": 7,
+          "name": "Enrich Salon",
+          "img": "https://img4.nbstatic.in/tr:w-350/63610fba22b317000b73b17a.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/6361101b22b317000b73b187.jpg",
+            "https://img4.nbstatic.in/tr:w-500/6361102622b317000b73b188.jpg"
+          ]
+        },
+        {
+          "id": 16,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Costa Coffee Gift Vouchers ₹230",
+          "price":230,
+          "bCount": 2,
+          "name": "Costa Coffee",
+          "img": "https://img4.nbstatic.in/tr:w-350/6361083722156b000cb5e510.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/6361084722b317000b73b15e.jpg",
+            "https://img4.nbstatic.in/tr:w-500/6361085322b317000b73b15f.jpg"
+          ]
+        },
+        {
+          "id": 17,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Pantaloons Gift Vouchers from ₹500",
+          "price":500,
+          "bCount": 4,
+          "name": "Pantaloons",
+          "img": "https://img4.nbstatic.in/tr:w-350/5efc63fddc0e82000bc008ed.png"
+        },
+        {
+          "id": 18,
+          "city": "bhubaneswar",
+          "typeFilter": "Restaurant Deals",
+          "address": "Online Deal",
+          "type": "VIEW",
+          "desc": "Cash Vouchers from ₹460",
+          "price":460,
+          "bCount": 1429,
+          "name": "Pizza Hut",
+          "img": "https://img4.nbstatic.in/tr:w-350/60f576d61e2731000b81c7dc.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/5ab8c05fdc0e82000cbf5cf8.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5ab8c06be21b84000b1a6df3.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5ab8c024c9e77c000cd1778f.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5ab8c031e21b84000b1a6df1.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5ab8c03fdc0e82000cbf5cf6.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5ab8c04f46e0fb000cc75a84.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5ab8c07ae21b84000b1a6df5.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5ab8c088e21b84000b1a6df7.jpg"
+          ]
+        },
+        {
+          "id": 19,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "VIEW",
+          "desc": "Domino's Gift Vouchers from ₹425",
+          "price":996,
+          "bCount": 996,
+          "name": "Domino's Pizza",
+          "img": "https://img4.nbstatic.in/tr:w-350/60e6f30f40e9df000b9f4097.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/60e6f3351e2731000b5af17b.jpg",
+            "https://img4.nbstatic.in/tr:w-500/60e6f33f1e2731000b5af17c.jpg"
+          ]
+        },
+        {
+          "id": 20,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Urban Ladder Gift Vouchers from ₹1000",
+          "price":1000,
+          "bCount": 0,
+          "name": "Urban Ladder E-Gift Card",
+          "img": "https://img4.nbstatic.in/tr:w-350/5dde25c646e0fb000bb076f6.jpg"
+        },
+        {
+          "id": 21,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Cafe Coffee Day Gift Vouchers from ₹225",
+          "price":225,
+          "bCount": 51,
+          "name": "Cafe Coffee Day",
+          "img": "https://img4.nbstatic.in/tr:w-350/6362306122b317000b73b419.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/56a9f9da0b04512cde6aed70.jpg",
+            "https://img4.nbstatic.in/tr:w-500/60f115901e2731000b81c662.jpg"
+          ]
+        },
+        {
+          "id": 22,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "VIEW",
+          "desc": "Starbucks Gift Cards from ₹475",
+          "price":475,
+          "bCount": 28,
+          "name": "Starbucks",
+          "img": "https://img4.nbstatic.in/tr:w-350/60703b741e2731000b1ae4ce.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/60703ba240e9df000b3697dc.jpg",
+            "https://img4.nbstatic.in/tr:w-500/60703b8940e9df000b3697db.jpg"
+          ]
+        },
+        {
+          "id": 23,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Michael Kors Gift Cards from ₹1000",
+          "price":1000,
+          "bCount": 0,
+          "name": "Michael Kors",
+          "img": "https://img4.nbstatic.in/tr:w-350/608687701e2731000bb00773.jpg"
+        },
+        {
+          "id": 24,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "FreshMenu Gift Vouchers from ₹98",
+          "price":98,
+          "bCount": 19,
+          "name": "FreshMenu E-Gift Cards",
+          "img": "https://img4.nbstatic.in/tr:w-350/5e8d7c28e21b84000d531f1e.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/5e8c31b2cff47e000c4952f7.jpg",
+            "https://img4.nbstatic.in/tr:w-500/6360ef5122156b000cb5e0ce.jpg",
+            "https://img4.nbstatic.in/tr:w-500/6360ef6122156b000cb5e0d0.jpg"
+          ]
+        },
+        {
+          "id": 25,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Jimmy Choo Gift Cards from ₹2000",
+          "price":2000,
+          "bCount": 0,
+          "name": "Jimmy Choo",
+          "img": "https://img4.nbstatic.in/tr:w-350/608688f240e9df000b36ed7c.jpg"
+        },
+        {
+          "id": 26,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "G-Star Raw Vouchers from ₹1000",
+          "price":1000,
+          "bCount": 0,
+          "name": "G-Star Raw",
+          "img": "https://img4.nbstatic.in/tr:w-350/6086883740e9df000b36ed79.jpg"
+        },
+        {
+          "id": 27,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Kate Spade Gift Cards from ₹1000",
+          "price":1000,
+          "bCount": 0,
+          "name": "Kate Spade",
+          "img": "https://img4.nbstatic.in/tr:w-350/6086887a1e2731000bb00775.jpg"
+        },
+        {
+          "id": 28,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Home Centre Gift Vouchers from ₹3000",
+          "price":3000,
+          "bCount": 1,
+          "name": "Home Centre E-Gift Card",
+          "img": "https://img4.nbstatic.in/tr:w-350/630359bf54f372000bb4a4d9.jpg"
+        },
+        {
+          "id": 29,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Max Fashion Gift Vouchers from ₹1000",
+          "price":1000,
+          "bCount": 11,
+          "name": "Max Fashion E-Gift Card",
+          "img": "https://img4.nbstatic.in/tr:w-350/5de4bb27590801000b55b152.jpg"
+        },
+        {
+          "id": 30,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Bally Gift Cards from ₹1000",
+          "price":1000,
+          "bCount": 0,
+          "name": "Bally",
+          "img": "https://img4.nbstatic.in/tr:w-350/60868a0840e9df000b36ed7e.jpg"
+        },
+        {
+          "id": 31,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Coach Gift Cards from ₹1000",
+          "price":1000,
+          "bCount": 0,
+          "name": "Coach",
+          "img": "https://img4.nbstatic.in/tr:w-350/608687eb40e9df000b36ed76.jpg"
+        },
+        {
+          "id": 32,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Dune Gift Cards from ₹1000",
+          "price":1000,
+          "bCount": 0,
+          "name": "Dune-London",
+          "img": "https://img4.nbstatic.in/tr:w-350/60868a3a40e9df000b36ed7f.jpg"
+        },
+        {
+          "id": 33,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Google Play Recharge Code Gift Voucher from ₹3000",
+          "price":3000,
+          "bCount": 55,
+          "name": "Google Play Gift Code",
+          "img": "https://img4.nbstatic.in/tr:w-350/634d48ec22b317000bdf72f6.jpg"
+        },
+        {
+          "id": 34,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Armani-Exchange Gift Cards from ₹5000",
+          "price":5000,
+          "bCount": 0,
+          "name": "Armani-Exchange",
+          "img": "https://img4.nbstatic.in/tr:w-350/608680e240e9df000b36ed6d.jpg"
+        },
+        {
+          "id": 35,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Salvatore-Ferragamo Gift Cards from ₹1000",
+          "price":1000,
+          "bCount": 0,
+          "name": "Salvatore-Ferragamo",
+          "img": "https://img4.nbstatic.in/tr:w-350/608687ba1e2731000bb00774.jpg"
+        },
+        {
+          "id": 36,
+          "city": "bhubaneswar",
+          "address": "Online Deal",
+          "typeFilter": "Gift Cards",
+          "type": "GIFT CARDS",
+          "desc": "Hamleys Gift Cards from ₹1000",
+          "price":1000,
+          "bCount": 0,
+          "name": "Luxe-Hamleys E-Gift card",
+          "img": "https://img4.nbstatic.in/tr:w-350/5f2a644246e0fb000d6392f6.jpg"
+        },
+        {
+          "id": 37,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Wakefit Gift Voucher from ₹1000",
+          "price":1000,
+          "bCount": 0,
+          "name": "Wakefit",
+          "img": "https://img4.nbstatic.in/tr:w-350/5f97fb7fc4d55d000b18bac4.jpg"
+        },
+        {
+          "id": 38,
+          "city": "bhubaneswar",
+          "typeFilter": "Health",
+          "address": "Online Deal",
+          "type": "DEALS",
+          "desc": "Health Checkup Packages from ₹999",
+          "price":999,
+          "bCount": 15,
+          "name": "RedCliffe labs",
+          "img": "https://img4.nbstatic.in/tr:w-350/6312e16b54f372000bd2a4fb.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/6315e4e7c10843000bd0eb07.jpg",
+            "https://img4.nbstatic.in/tr:w-500/6315f2cfc10843000bd0eb2c.jpg",
+            "https://img4.nbstatic.in/tr:w-500/6315f2d754f372000bd2a657.jpg"
+          ]
+        },
+        {
+          "id": 39,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Myntra e-Gift Card up to worth Rs.5000 from ₹1000",
+          "price":1000,
+          "bCount": 8705,
+          "name": "Myntra",
+          "img": "https://img4.nbstatic.in/tr:w-350/601be805e1ecca000b594d84.jpg"
+        },
+        {
+          "id": 40,
+          "city": "bhubaneswar",
+          "typeFilter": "Activity Deals",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Uber Gift Vouchers from ₹500",
+          "price":500,
+          "bCount": 57,
+          "name": "Uber",
+          "img": "https://img4.nbstatic.in/tr:w-350/6300aad5c10843000b493a92.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/5b9114664cedfd000cb21771.jpg"
+          ]
+        },
+        {
+          "id": 41,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "KFC Gift Vouchers from ₹460",
+          "price":460,
+          "bCount": 460,
+          "name": "KFC",
+          "img": "https://img4.nbstatic.in/tr:w-350/5f228c22d60180000d6789c5.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/62567c3b6f487a000c0f5a52.jpg",
+            "https://img4.nbstatic.in/tr:w-500/62567c4b3b031b000bf17558.jpg"
+          ]
+        },
+        {
+          "id": 42,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Levi's Gift Vouchers from ₹1000",
+          "price":1000,
+          "bCount": 7,
+          "name": "Levi's",
+          "img": "https://img4.nbstatic.in/tr:w-350/6300d2de54f372000bb4a3f9.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/58455462c9e77c000d173192.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5845547ddc0e82000d17e432.jpg"
+          ]
+        },
+        {
+          "id": 43,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "FabIndia Gift Vouchers from ₹500",
+          "price":500,
+          "bCount": 4,
+          "name": "Fabindia",
+          "img": "https://img4.nbstatic.in/tr:w-350/630318a054f372000bb4a471.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/630318afc10843000b493b09.jpg",
+            "https://img4.nbstatic.in/tr:w-500/6308888354f372000b30d4cb.jpg",
+            "https://img4.nbstatic.in/tr:w-500/63088883c10843000b493e9c.jpg",
+            "https://img4.nbstatic.in/tr:w-500/6308888354f372000b30d4cc.jpg",
+            "https://img4.nbstatic.in/tr:w-500/63088883c10843000b493e9d.jpg",
+            "https://img4.nbstatic.in/tr:w-500/583e82fedc0e82000d17d9a5.jpg"
+          ]
+        },
+        {
+          "id": 44,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Allen Solly Gift Voucher from ₹2500",
+          "price":2500,
+          "bCount": 1,
+          "name": "Allen Solly",
+          "img": "https://img4.nbstatic.in/tr:w-350/63009cd5b3c621000b30d570.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/63031494c10843000b493b02.jpg",
+            "https://img4.nbstatic.in/tr:w-500/583e838dc9e77c000d1726e9.jpg"
+          ]
+        },
+        {
+          "id": 45,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Lifestyle Gift Vouchers from ₹3000",
+          "price":3000,
+          "bCount": 15,
+          "name": "Lifestyle",
+          "img": "https://img4.nbstatic.in/tr:w-350/6300de3154f372000bb4a409.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/6300de5d54f372000bb4a40a.jpg"
+          ]
+        },
+        {
+          "id": 46,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Swiggy Money Gift Vouchers from ₹228",
+          "price":228,
+          "bCount": 2350,
+          "name": "Swiggy Money",
+          "img": "https://img4.nbstatic.in/tr:w-350/6308928cc10843000b493eb0.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/630892fcc10843000b493eb2.jpg",
+            "https://img4.nbstatic.in/tr:w-500/6300e3fcc10843000b493aaf.jpg",
+            "https://img4.nbstatic.in/tr:w-500/6300e408c10843000b493ab0.jpg"
+          ]
+        },
+        {
+          "id": 47,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Westside Gift Vouchers from ₹2500",
+          "price":2500,
+          "bCount": 22,
+          "name": "Westside",
+          "img": "https://img4.nbstatic.in/tr:w-350/6300deda54f372000bb4a40d.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/583e8390c9e77c000d1726eb.jpg",
+            "https://img4.nbstatic.in/tr:w-500/583e8d09c9e77c000d172730.jpg"
+          ]
+        },
+        {
+          "id": 48,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "DEALS",
+          "desc": "Win Rs 5,000/- Myntra Voucher from ₹0",
+          "price":0,
+          "bCount": 4045,
+          "name": "Win Rs 5,000/- Myntra Voucher",
+          "img": "https://img4.nbstatic.in/tr:w-350/6399cb198db992000bac8856.jpg"
+        },
+        {
+          "id": 49,
+          "city": "bhubaneswar",
+          "typeFilter": "Health",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "NuAyurveda e-Gift Vouchers from ₹430",
+          "price":430,
+          "bCount": 0,
+          "name": "Nu Ayurveda",
+          "img": "https://img4.nbstatic.in/tr:w-350/5b910757d60180000baa058b.png",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/5b9119a2d60180000baa07f1.jpg",
+            "https://img4.nbstatic.in/tr:w-500/608be4b21e2731000ba0b212.jpg"
+          ]
+        },
+        {
+          "id": 50,
+          "city": "bhubaneswar",
+          "address": "Online Deal",
+          "typeFilter":"Gift Cards",
+          "type": "GIFT CARDS",
+          "desc": "Euphoria Gold Coin E-Gift Card by A.himanshu Jewellery from ₹1920",
+          "bCount": 690,
+          "price":1920,
+          "name": "Euphoria Jewellery by A. Himanshu",
+          "img": "https://img4.nbstatic.in/tr:w-350/588f1a62cff47e000efe3aac.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/588f1a63dc0e82000dfa8575.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5886ef26dc0e82000dfa7490.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5886ef75dc0e82000dfa7493.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5886ef87cff47e000efe29cb.jpg",
+            "https://img4.nbstatic.in/tr:w-500/5886ef96cff47e000efe29cd.jpg"
+          ]
+        },
+        {
+          "id": 51,
+          "city": "bhubaneswar",
+          "address": "Health",
+          "typeFilter": "DOCTORS AND CLINIC",
+          "type": "DEALS",
+          "desc": "Health Live Courses, E learning and Workshops from ₹209",
+          "price":209,
+          "bCount": 7,
+          "name": "Wellcure",
+          "img": "https://img4.nbstatic.in/tr:w-350/60475a7379600c000c8c15bc.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/60475a5b3eb5b6000bf44855.jpg",
+            "https://img4.nbstatic.in/tr:w-500/60475a6679600c000c8c15ba.jpg"
+          ]
+        },
+        {
+          "id": 52,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Nykaa Gift Vouchers from ₹1000",
+          "price":1000,
+          "bCount": 12,
+          "name": "Nykaa",
+          "img": "https://www.nearbuy.com/online/nykaa-palam?merchantId=349682"
+        },
+        {
+          "id": 53,
+          "city": "bhubaneswar",
+          "typeFilter": "Gift Cards",
+          "address": "Online Deal",
+          "type": "GIFT CARDS",
+          "desc": "Bewakoof Gift Vouchers from ₹1000",
+          "price":1000,
+          "bCount": 1,
+          "name": "Bewakoof",
+          "img": "https://img4.nbstatic.in/tr:w-350/6308949154f372000b30d4e8.jpg",
+          "photos": [
+            "https://img4.nbstatic.in/tr:w-500/6308959154f372000b30d4e9.jpg",
+            "https://img4.nbstatic.in/tr:w-500/6300ddd754f372000bb4a408.jpg",
+            "https://img4.nbstatic.in/tr:w-500/6300dddfc10843000b493aa7.jpg"
+          ]
+        },
+        {
+            "id": 54,
+            "city": "bhubaneswar",
+            "typeFilter": "Activity Deals",
+            "address": "Online Deal",
+            "type": "DEALS",
+            "desc": "Bowling, Arcade Games & More From ₹500",
+            "price":500,
+            "bCount": 57,
+            "name": "Bowling, Arcade Games & More",
+            "img": "https://img4.nbstatic.in/tr:w-500/5f8fd1465cc6f2000bc1833e.jpg",
+            "photos": [
+           "https://img4.nbstatic.in/tr:w-500/5f96817ac4d55d000b18b5b0.jpg","https://img4.nbstatic.in/tr:w-500/5f968185c4d55d000b18b5b2.jpg","https://img4.nbstatic.in/tr:w-500/5f8d65fe5cc6f2000bc17e4b.jpg"
+            ]
+          },
+          {
+            "id": 55,
+            "city": "bhubaneswar",
+            "typeFilter": "Activity Deals",
+            "address": "Online Deal",
+            "type": "DEALS",
+            "desc": "The Grand Venice Mall ",
+            "price":600,
+            "bCount": 57,
+            "name": "Mastiii 7D",
+            "img": "https://img4.nbstatic.in/tr:w-500/5b02645d4cedfd000c7fb1c1.jpg",
+            "photos": [
+           "https://img4.nbstatic.in/tr:w-500/5af4075ad60180000c8338a4.jpg","https://img4.nbstatic.in/tr:w-500/5aefedce46e0fb000c6d0edf.jpg","https://img4.nbstatic.in/tr:w-500/5b02645d4cedfd000c7fb1c1.jpg"
+            ]
+          },
+          {
+            "id": 56,
+            "city": "bhubaneswar",
+            "typeFilter": "Activity Deals",
+            "address": "Online Deal",
+            "type": "DEALS",
+            "desc": "Gaming Pool & More",
+            "price":199,
+            "bCount": 57,
+            "name": "Gamer's Sanctuary - Gaming Cafe And Lounge",
+            "img": "https://img4.nbstatic.in/tr:w-500/5e70be86590801000ce90c33.jpg",
+            "photos": [
+           "https://img4.nbstatic.in/tr:w-500/5e70bfd5590801000ce90c3d.jpg","https://img4.nbstatic.in/tr:w-500/5e70c002590801000ce90c53.jpg"
+            ]
+          },
+          {
+            "id": 57,
+            "city": "bhubaneswar",
+            "typeFilter": "Activity Deals",
+            "address": "Online Deal",
+            "type": "DEALS",
+            "desc": "Ice Skating with Drinks & Starters",
+            "price":799,
+            "bCount": 57,
+            "name": "ISKATE By Roseate",
+            "img": "https://img4.nbstatic.in/tr:w-500/61b82e5540e9df000b236a57.jpg",
+            "photos": [
+           "https://img4.nbstatic.in/tr:w-500/624eca843b031b000bf1716a.PNG","https://img4.nbstatic.in/tr:w-500/624eca8f6f487a000b81236c.PNG","https://img4.nbstatic.in/tr:w-500/624ed4a03b031b000bf17177.jpg"
+            ]
+          },
+          {
+            "id": 58,
+            "city": "bhubaneswar",
+            "typeFilter": "Health",
+            "address": "Online Deal",
+            "type": "DEALS",
+            "desc": "Cash Vouchers for Dental Services",
+            "price":399,
+            "bCount": 0,
+            "name": "City Dental Care",
+            "img": "https://img4.nbstatic.in/tr:w-500/56b2d2a80b04512cde6eb660.jpg",
+            "photos": [
+              "https://img4.nbstatic.in/tr:w-500/5f65bd7f3ea567000b62a844.jpg",
+              "https://img4.nbstatic.in/tr:w-500/5f65bd633ea567000b62a842.jpg"
+            ]
+          },
+          {
+            "id": 59,
+            "city": "bhubaneswar",
+            "typeFilter": "Health",
+            "address": "Online Deal",
+            "type": "DEALS",
+            "desc": "SINGH PHYSIOTHERAPY CENTRE,",
+            "price":699,
+            "bCount": 0,
+            "name": "Physiotherapy Services",
+            "img": "https://img4.nbstatic.in/tr:w-500/5f6b18ff3ea567000b62b380.jpg",
+            "photos": [
+              "https://img4.nbstatic.in/tr:w-500/5f586faf3ea567000b0ac4f0.jpg",
+              "https://img4.nbstatic.in/tr:w-500/5f586f82b7b01c000b3d90ca.jpg"
+            ]
+          },
+          {
+            "id": 60,
+            "city": "bhubaneswar",
+            "typeFilter": "Health",
+            "address": "Online Deal",
+            "type": "DEALS",
+            "desc": "Dental Services",
+            "bCount": 0,
+            "price":999,
+            "name": "Panache Dental",
+            "img": "https://img4.nbstatic.in/tr:w-500/63a9a41e22b317000c10de2d.jpg",
+            "photos": [
+              "https://img4.nbstatic.in/tr:w-500/63a9a46f8db992000b255b03.jpg",
+              "https://img4.nbstatic.in/tr:w-500/63a9a42f8db992000b255b00.jpg"
+            ]
+          }
+      ],
+"carts":[
+    {
+        "id": 1,
+        "city": "bhubaneswar",
+        "typeFilter": "Restaurant Deals",
+        "stars": 4.1,
+        "address": "1.8 km - Patia",
+        "fullAddress": "No. 9, Infocity Avenue, K I, I T University, Chandaka Industrial Estate, Patia, Bhubaneswar",
+        "type": "DEALS",
+        "desc": "Buffet Offers from ₹891",
+        "bCount": 261,
+        "price":891,
+        "name": "AB's - Absolute Barbecues",
+        "img": "https://img4.nbstatic.in/tr:w-350/615c0e751e2731000b10a7c3.jpg",
+        "photos": [
+          "https://img4.nbstatic.in/tr:w-500/5811ad254cedfd000e0c6177.jpg",
+          "https://img4.nbstatic.in/tr:w-500/5811aceb4cedfd000e0c6173.jpg",
+          "https://img4.nbstatic.in/tr:w-500/5811ad01d60180000dfb93da.jpg",
+          "https://img4.nbstatic.in/tr:w-500/5811ad154cedfd000e0c6175.jpg",
+          "https://img4.nbstatic.in/tr:w-500/615c0e901e2731000b10a7c4.jpg",
+          "https://img4.nbstatic.in/tr:w-500/615c0e9a40e9df000b00a212.jpg",
+          "https://img4.nbstatic.in/tr:w-500/615c0ea21e2731000b10a7c6.jpg",
+          "https://img4.nbstatic.in/tr:w-500/615c0eaa40e9df000b00a214.jpg",
+          "https://img4.nbstatic.in/tr:w-500/615c0eb340e9df000b00a215.jpg",
+          "https://img4.nbstatic.in/tr:w-500/615c0f0a40e9df000b00a219.jpg",
+          "https://img4.nbstatic.in/tr:w-500/615c0f121e2731000b10a7cb.jpg",
+          "https://img4.nbstatic.in/tr:w-500/615c0f1a40e9df000b00a21b.jpg",
+          "https://img4.nbstatic.in/tr:w-500/615c0f2340e9df000b00a21d.jpg",
+          "https://img4.nbstatic.in/tr:w-500/615c0f2b40e9df000b00a21f.jpg"
+        ]
+      }
 ],
-"carts":[],
-"users":[]
+"users":[
+   
+]
 
 }
